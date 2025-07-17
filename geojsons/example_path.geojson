@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "arc_id": "path1"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [0,0], [-100, 0], [-110, 50]
+                ]
+            }
+        }
+    ]
+}
