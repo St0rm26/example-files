@@ -1,1 +1,1 @@
-# example-raster-tiles
+# Example files
