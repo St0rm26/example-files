@@ -3,9 +3,6 @@
     "features": [
         {
             "type": "Feature",
-            "properties": {
-                "arc_id": "path1"
-            },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -14,6 +11,9 @@
                     [-74.23046875, 48.005972656239187],
                     [-75.56640625, 50.46602847687329]
                 ]
+            },
+            "properties": {
+                "arc_id": "path1"
             }
         }
     ]
